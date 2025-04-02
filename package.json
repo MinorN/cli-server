@@ -7,8 +7,10 @@
     "declarations": true
   },
   "dependencies": {
+    "@pick-star/cli-mongodb": "^1.0.3",
     "egg": "^2.15.1",
-    "egg-scripts": "2.11.0"
+    "egg-scripts": "2.11.0",
+    "mongodb": "^6.15.0"
   },
   "devDependencies": {
     "egg-bin": "4.11.0",
